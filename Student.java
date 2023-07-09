@@ -1,5 +1,3 @@
-package lian_xi_002.studentManageSysteam;
-
 public class Student {
     private String id;
     private String name;
